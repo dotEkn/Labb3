@@ -6,6 +6,7 @@ namespace Gik299_HT23_William_Ekengren
     {
         static void Main(string[] args)
         {
+            // Slutgiltiga för utskrift av insamlad data ifrån Hair.cs, Gender.cs och Person.cs.
             string FirstName = "Per";
             string LastName = "Andersson";
             int age = 25;

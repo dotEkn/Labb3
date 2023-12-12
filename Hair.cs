@@ -8,6 +8,7 @@ namespace Labb3
 {
 
     // Constructor som initialiserar objekt i en klass.
+    // Dessa dyker upp igen när vi bestämmer vilken typ av hår som personen har i Person.cs.
     public struct Hair
     {
         public string hairLength;
